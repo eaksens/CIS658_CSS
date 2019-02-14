@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  color: purple;
+}
+#signature{
+  text-align: right;
+  font-style: italic;
+}
+
+.bigtext{
+  font-family: Georgia;
+  font-size: 40px;
+}

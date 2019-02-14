@@ -1,0 +1,11 @@
+
+.fancy_quote{
+
+  height: 100px;
+  width: 200px;
+  font-size: 1.2em;
+  font-style: italic;
+  display: inline;
+  float: right;
+  color: blue;
+}

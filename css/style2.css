@@ -1,0 +1,44 @@
+#topleft{
+  position: absolute;
+  text-align: left;
+  left: 5px;
+}
+
+#bottomleft{
+  position: absolute;
+  top: 680px;
+  text-align: left;
+  left: 5px;
+  margin-left: 5px;
+}
+
+#topright{
+  /*text-align: right;*/
+  position: absolute;
+  right: 5px;
+  display: inline;
+  margin-right: 5px;
+}
+
+#bottomright{
+  position: absolute;
+  text-align: right;
+  margin-right: 5px;
+  right: 5px;
+  top: 680px;
+}
+
+.centered_green_box{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 311.2px;
+  right: 664px;
+  background-color: #00FF00;
+}
+
+.centered{
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
